@@ -6,7 +6,7 @@ End-to-end supply chain analytics project analyzing 180k+ orders to identify del
 [Download DataCoSupplyChainDataset.csv](https://drive.google.com/file/d/1kIZjvDMQj2Pl9lnr-xmMRaYxWs4ctEvW/view?usp=sharing)
 
 ## 🔧 Tech Stack
-Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
+Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
 
 ## 🎯 Goal
 Analyze 180k+ orders to find shipping delays and optimize supply chain costs.
