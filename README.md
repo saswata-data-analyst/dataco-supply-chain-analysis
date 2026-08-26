@@ -11,7 +11,8 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
 ## 🎯 Goal
 Analyze 180k+ orders to find shipping delays and optimize supply chain costs.
 ## 📊 Key Finding
-![Late Delivery % by Shipping Mode](shipping_chart.png)
+![Late Delivery % by Shipping Mode](Figure_1_Late_Delivery_by_Shipping_Mode.png
+)
 
 **Insight:** First Class shipping has the highest late delivery rate at ~98%. This is the main bottleneck in the supply chain.
 [**View my compleate Python code and outputs on Google Colab**]
