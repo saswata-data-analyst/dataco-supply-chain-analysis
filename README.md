@@ -10,7 +10,7 @@ End-to-end supply chain analytics project analyzing 180k+ orders to identify del
 https://colab.research.google.com/drive/1VWyhEiItJKSjLGz_TGVG9BUulLSeRTAp?usp=sharing
 
 ## 📊 Dataset
-**Due to GitHub file size limits, the dataset is hosted on Google Drive:**
+**Dataset Source:** DataCo Supply Chain Dataset (180K+ records) from Kaggle - Open dataset licensed for academic & portfolio use.
 [Download DataCoSupplyChainDataset.csv](https://drive.google.com/file/d/1kIZjvDMQj2Pl9lnr-xmMRaYxWs4ctEvW/view?usp=sharing)
 
 ## 🔧 Tech Stack
