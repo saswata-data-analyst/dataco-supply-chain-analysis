@@ -4,7 +4,7 @@ End-to-end supply chain analytics analyzing 180,519 orders to identify delays, p
 ## 📊 Key Finding
 ![Late Delivery % by Shipping Mode](Figure_1_Late_Delivery_by_Shipping_Mode.png)
 
-**Insight:** First Class shipping has the highest late delivery rate at ~95.32%. This is the main bottleneck in the supply chain.
+**Insight:** First Class shipping has the highest late delivery rate at **95.32%**. This is the main bottleneck in the supply chain.
 
 **[View my complete Python code and outputs on Google Colab](https://colab.research.google.com/drive/1VWyhEiItJKSjLGz_TGVG9BUulLSeRTAp?usp=sharing)**
 
