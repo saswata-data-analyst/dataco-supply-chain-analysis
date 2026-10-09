@@ -14,7 +14,7 @@ End-to-end supply chain analytics analyzing 180,519 orders to identify delays, p
 **Kaggle Link:** https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis  
 **Downloaded:** 14th July 2026, 2:23 PM IST from Kaggle  
 **Dataset License:** CC0: Public Domain (Verified on Kaggle Data Card - Free for educational & portfolio use)  
-**Code License:** MIT License (2025 Saswata Mondal) - Applies only to code in this repo, not the dataset
+**Code License:** MIT License (2026 Saswata Mondal) - Applies only to code in this repo, not the dataset
 
 *Note: Due to GitHub size limit, full CSV (180k+ records) is stored locally. Sample file `sample_data.csv` provided for review.*
 
